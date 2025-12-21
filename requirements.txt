@@ -1,4 +1,4 @@
-mediapipe==0.10.9 --no-cache-dir
+mediapipe==0.10.9 
 numpy
 pandas
 matplotlib
